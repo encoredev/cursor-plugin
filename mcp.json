@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "encore-mcp": {
+      "command": "encore",
+      "args": ["mcp", "run", "--app=${ENCORE_APP_ID}"]
+    }
+  }
+}

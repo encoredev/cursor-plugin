@@ -1,0 +1,13 @@
+{
+  "name": "encore",
+  "displayName": "Encore",
+  "version": "0.1.0",
+  "description": "Build backends in TypeScript and Go with automatic infrastructure. Rules, skills, MCP integration, and commands for the full Encore workflow.",
+  "author": {
+    "name": "Encore",
+    "email": "hello@encore.dev"
+  },
+  "license": "MPL-2.0",
+  "keywords": ["encore", "backend", "typescript", "go", "infrastructure", "aws", "gcp", "mcp"],
+  "logo": "assets/logo.svg"
+}
